@@ -2,8 +2,8 @@
   hosts: localhost
   connection: local
   vars:
-    resource_group: Telegram-Socks-RG
-    vm_name: tlg-socks
+    resource_group: US-Telegram-Socks-RG
+    vm_name: us-tlg-socks
     location: centralus
     admin_username: telegram
     admin_password: 2qJxxImL0UgdAxPvfnyB
